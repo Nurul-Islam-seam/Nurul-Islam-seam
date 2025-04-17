@@ -158,9 +158,7 @@
 </p>
 
 <div align="center">
-  <a href="https://ibb.co.com/n8tDCRmS">
-    <img src="https://i.ibb.co.com/KzS9wmhH/pilot.gif" width="400" alt="anime pilot gif">
-  </a>
+  <img src="https://i.ibb.co.com/0RSQG2rk/mmm-scaled.webp" width="300" alt="anime character">
 </div>
 
 <h2 align="center">Connect With Me</h2>
