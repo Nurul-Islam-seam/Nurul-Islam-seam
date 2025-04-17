@@ -152,15 +152,6 @@
   </tr>
 </table>
 
-<h2 align="center">Fun Anime Trivia</h2>
-<p align="center">
-  Did you know? Hentai is a recognized genre in anime culture, often appreciated for its unique art and storytelling. Message me if you’re curious to discuss this niche interest! 🍒
-</p>
-
-<div align="center">
-  <img src="https://i.ibb.co.com/0RSQG2rk/mmm-scaled.webp" width="300" alt="anime character">
-</div>
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
