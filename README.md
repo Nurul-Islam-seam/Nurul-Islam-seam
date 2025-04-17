@@ -90,6 +90,9 @@
   <img src="https://img.shields.io/badge/Demon_Slayer-★★★★☆-FFD700?style=flat-square" alt="rating">
   &nbsp;
   <img src="https://img.shields.io/badge/My_Hero_Academia-★★★★☆-FFD700?style=flat-square" alt="rating">
+  &nbsp;
+  <img src="https://img.shields.io/badge/🕵️‍♂️_Detective_Conan-★★★★★-FFD700?style=flat-square" alt="rating">
+
 </p>
 
 <p align="center">
