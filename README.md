@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="40">
-  Nurul Islam's Anime Universe
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="40">
-</h1>
+<h1 align="center">Nurul Islam's Anime Universe</h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/KXx0cCx.gif" width="400" alt="anime welcome gif">
+  <img src="https://c.tenor.com/cXlrPENTVkEAAAAC/chika-fujiwara-kaguya-sama.gif" width="400" alt="anime welcome gif">
 </div>
 
 <p align="center">
@@ -21,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nurul-Islam-seam&color=ff71dd&style=flat-square" alt="Profile Views">
   <br>
-  <em>Last updated: 2025-04-17 20:35:41</em>
+  <em>Last updated: 2025-04-18</em>
 </p>
 
 <div align="center">
@@ -32,45 +28,57 @@
 
 <br>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
-  About Me
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
-</h2>
+<h2 align="center">About Me</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/UQ1EI1ML2ABQdbv2GU/giphy.gif" alt="anime coding gif">
+<img align="right" height="150" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="anime coding gif">
 
 - 🌸 Passionate about **anime** and **coding**
 - 🎮 Enjoy watching anime and discussing character development
 - 📚 Currently exploring new technologies when not binging anime
 - 🍜 Love for Japanese culture and cuisine
-- 🎵 Fan of anime soundtracks and J-Pop
+- 🎵 Fan of anime soundtracks and cosplay
 - 💭 *"Believe in yourself and create your own destiny. Don't fear failure."* - Naruto
 
 <br>
 <br>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
-  My Favorite Anime
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-</h2>
+<h2 align="center">My Favorite Anime</h2>
 
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="600">
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fb/8e/89/fb8e89755f4859c922023a7eb5550e9a.png" width="100" alt="Naruto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/originals/05/4f/df/054fdf0e4292ab18bc9f03334fc7154a.png" width="100" alt="One Piece"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/originals/04/cb/7d/04cb7d0b6b917eff19d3d4c5b00fef6e.png" width="100" alt="Attack on Titan"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/originals/de/f4/d6/def4d613a5d7c289650d5876a7b0a1eb.png" width="100" alt="Demon Slayer"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/originals/a4/75/80/a475805f12b3551b8547bc0256dfa71e.png" width="100" alt="My Hero Academia"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/13/17405l.jpg" width="80" alt="Naruto"/>
+        <br>
+        <b>Naruto</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/1178/92469l.jpg" width="80" alt="One Piece"/>
+        <br>
+        <b>One Piece</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/1907/134102l.jpg" width="80" alt="Attack on Titan"/>
+        <br>
+        <b>Attack on Titan</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/1286/99889l.jpg" width="80" alt="Demon Slayer"/>
+        <br>
+        <b>Demon Slayer</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/10/78745l.jpg" width="80" alt="My Hero Academia"/>
+        <br>
+        <b>My Hero Academia</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Naruto-★★★★★-FFD700?style=flat-square" alt="rating">
@@ -88,11 +96,7 @@
   <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="600">
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git Stats">
-  GitHub Stats
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git Stats">
-</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nurul-Islam-seam&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF71DD&text_color=8DEEEE&icon_color=FF71DD&hide=issues&card_width=495" alt="GitHub Stats" />
@@ -106,11 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-Islam-seam&layout=compact&hide_border=true&bg_color=00000000&title_color=FF71DD&text_color=8DEEEE&card_width=450" alt="Top Languages" />
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-  Skills & Tools
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-</h2>
+<h2 align="center">Skills & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -124,42 +124,46 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8mC1l4PGWJCY/giphy.gif" width="240" alt="anime coding gif">
+  <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="240" alt="anime coding gif">
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30">
-  Anime Quotes I Live By
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30">
-</h2>
+<h2 align="center">Anime Quotes I Live By</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/One_Piece-FF6B6B-FF6B6B?style=for-the-badge" alt="One Piece">
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/One_Piece-E50914?style=flat-square" alt="One Piece">
       <p><em>"If you don't take risks, you can't create a future!"</em></p>
-      <p align="right"><strong>— Monkey D. Luffy</strong></p>
+      <p align="center"><strong>— Monkey D. Luffy</strong></p>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Naruto-F58025-F58025?style=for-the-badge" alt="Naruto">
+    <td style="vertical-align: middle; padding: 0 10px; font-size: 2em;">|</td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Naruto-FF7F00?style=flat-square" alt="Naruto">
       <p><em>"It's not the face that makes someone a monster, it's the choices they make with their lives."</em></p>
-      <p align="right"><strong>— Naruto Uzumaki</strong></p>
+      <p align="center"><strong>— Naruto Uzumaki</strong></p>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Code_Geass-AA336A-AA336A?style=for-the-badge" alt="Code Geass">
+    <td align="center" colspan="3" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Code_Geass-702F8A?style=flat-square" alt="Code Geass">
       <p><em>"You will never be able to love anybody else until you love yourself."</em></p>
-      <p align="right"><strong>— Lelouch Lamperouge</strong></p>
+      <p align="center"><strong>— Lelouch Lamperouge</strong></p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  Connect With Me
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-</h2>
+<h2 align="center">Fun Anime Trivia</h2>
+<p align="center">
+  Did you know? Hentai is a recognized genre in anime culture, often appreciated for its unique art and storytelling. Message me if you’re curious to discuss this niche interest! 🍒
+</p>
+
+<div align="center">
+  <a href="https://ibb.co.com/n8tDCRmS">
+    <img src="https://i.ibb.co.com/KzS9wmhH/pilot.gif" width="400" alt="anime pilot gif">
+  </a>
+</div>
+
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://twitter.com/your-handle" target="_blank">
@@ -179,10 +183,9 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF71DD&height=120&section=footer"/>
-
+<br>
 <p align="center">
-  <img src="https://media.giphy.com/media/11TU9wJqEtr2ZW/giphy.gif" width="200" alt="anime thank you gif">
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/konata-dance.gif" width="200" alt="anime thank you gif">
   <br>
   <em>Thanks for visiting my profile! Have a wonderful day and keep watching anime! 😄</em>
 </p>
