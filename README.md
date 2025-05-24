@@ -1,17 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=See%20you%20space%20cowboy...&fontSize=20&fontColor=fff&animation=twinkling" alt="footer"/>
-</p>
-
 <div align="center">
-  <img src="https://tenor.com/view/natsume-yuujinchou-natsumes-bookof-friends-gif-6083874.gif" width="60" alt="Natsume Yuujinchou">
-  <img src="https://tenor.com/view/86anime-eighty-six-reginleif-laughing-fox-gif-23651620.gif" width="60" alt="86 Anime">
-  <img src="https://tenor.com/view/ryougi-shiki-gif-21077662.gif" width="60" alt="Ryougi Shiki">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </div>
 
 <h1 align="center">✨ Nurul Islam's Anime Universe ✨</h1>
 
 <div align="center">
-  <img src="https://tenor.com/view/shiki-ryougi-gif-19125899.gif" width="400" alt="Shiki Ryougi Welcome">
+  <img src="https://c.tenor.com/cXlrPENTVkEAAAAC/chika-fujiwara-kaguya-sama.gif" width="400" alt="anime welcome gif">
 </div>
 
 <p align="center">
@@ -37,7 +33,7 @@
 
 <h2 align="center">🌸 About Me 🌸</h2>
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVsdjV2eGtjdjVlcGhpa2dvbmFxMnprcjhkczN1dWMwcXZiZmswMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ysT4RX4TRiF8c/giphy.gif" alt="Natsume Yuujinchou Catbus">
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="anime coding gif">
 
 - 🌸 Passionate about **anime** and **coding**
 - 🎮 **232.6 days** watched on MyAnimeList with **7.63** mean score
@@ -53,7 +49,7 @@
 <h2 align="center">🎌 My Favorite Anime (From MAL) 🎌</h2>
 
 <p align="center">
-  <img src="https://tenor.com/view/xxxholic-yuuko-tea-drinking-gif-11137488831329744299.gif" width="500" alt="Yuuko Tea">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" alt="anime divider">
 </p>
 
 <div align="center">
@@ -130,7 +126,7 @@
 <h2 align="center">🌟 Favorite Anime Characters 🌟</h2>
 
 <p align="center">
-  <img src="https://tenor.com/view/xxxholic-yuuko-gif-4482745708310602496.gif" width="500" alt="Yuuko Divider">
+  <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" width="500" alt="character divider">
 </p>
 
 <div align="center">
@@ -213,42 +209,33 @@
 </div>
 
 <p align="center">
-  <img src="https://tenor.com/view/xxxholic-anime-booze-yuuko-happy-gif-13622055.gif" width="400" alt="Yuuko Happy">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="400" alt="anime celebration gif">
 </p>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://tenor.com/view/detective-conan-glasses-gif-23905397.gif" width="300" alt="Detective Conan Glasses">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurul-Islam-seam&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF71DD&text_color=8DEEEE&icon_color=FF71DD&hide=issues&card_width=495" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/kaitou-kid-gif-20450229.gif" width="300" alt="Kaitou Kid">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurul-Islam-seam&background=00000000&hide_border=true&stroke=8DEEEE&ring=FF71DD&fire=FF71DD&currStreakNum=8DEEEE&currStreakLabel=FF71DD&sideNums=FF71DD&sideLabels=8DEEEE&dates=CCCCCC" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/anime-kuroshitsuji-black-butler-eat-gif-19423555.gif" width="300" alt="Black Butler Eat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-Islam-seam&layout=compact&hide_border=true&bg_color=00000000&title_color=FF71DD&text_color=8DEEEE&card_width=450" alt="Top Languages" />
 </p>
 
 <div align="center">
-  <img src="https://tenor.com/view/86-gif-9920855250034503156.gif" width="250" alt="86 Anime Shin">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="coding anime gif">
 </div>
 
 <h2 align="center">🛠️ Skills & Tools 🛠️</h2>
 
 <p align="center">
-  <img src="https://tenor.com/view/86anime-eighty-six-reginleif-laughing-fox-gif-23651620.gif" width="300" alt="86 Anime Fox">
-</p>
-
-<p align="center">
-  <img src="https://tenor.com/view/eighty-six-anime-86eighty-six-anime-eighty-six-shin-86anime-86anime-shin-gif-20263633.gif" width="300" alt="86 Anime Shin">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -256,10 +243,14 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="programming gif">
+</p>
+
 <h2 align="center">💭 Anime Quotes I Live By 💭</h2>
 
 <p align="center">
-  <img src="https://tenor.com/view/anime-code-geass-laughing-laugh-gif-27600912.gif" width="400" alt="Code Geass Laugh">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="400" alt="quotes gif">
 </p>
 
 <table align="center">
@@ -293,14 +284,10 @@
 </table>
 
 <div align="center">
-  <img src="https://tenor.com/view/shiro-k-anime-gif-20647800.gif" width="300" alt="Shiro K Anime">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" alt="anime friendship gif">
 </div>
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
-
-<p align="center">
-  <img src="https://tenor.com/view/startled-cat-cat-boy-neko-anime-boy-gif-13272395694757393350.gif" width="300" alt="Neko Anime Boy">
-</p>
 
 <p align="center">
   <a href="https://www.facebook.com/seam336/" target="_blank">
