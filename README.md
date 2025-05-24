@@ -32,7 +32,7 @@
 
 <h2 align="center">🌸 About Me 🌸</h2>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVsdjV2eGtjdjVlcGhpa2dvbmFxMnprcjhkczN1dWMwcXZiZmswMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ysT4RX4TRiF8c/giphy.gif">
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVsdjV2eGtjdjVlcGhpa2dvbmFxMnprcjhkczN1dWMwcXZiZmswMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ysT4RX4TRiF8c/giphy.gif" alt="anime coding gif">
 
 - 🌸 Passionate about **anime** and **coding**
 - 🎮 **232.6 days** watched on MyAnimeList with **7.63** mean score
