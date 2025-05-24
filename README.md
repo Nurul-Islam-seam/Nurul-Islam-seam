@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Welcome&fontSize=30&fontColor=fff&color=gradient&customColorList=00c9ff,92fe9d&animation=twinkling",alt="Header"/>
 </div>
 
-<h1 align="center">✨ Nurul Islam's Anime Universe ✨</h1>
+
+<h1 align="center">✨ Nurul Islam Seam's Anime Universe ✨</h1>
 
 <div align="center">
-  <img src="https://c.tenor.com/cXlrPENTVkEAAAAC/chika-fujiwara-kaguya-sama.gif" width="400" alt="anime welcome gif">
+  <img src="https://tenor.com/view/natsume-yuujinchou-natsumes-bookof-friends-gif-6083874.gif" alt="anime welcome gif">
 </div>
 
 <p align="center">
@@ -33,14 +32,13 @@
 
 <h2 align="center">🌸 About Me 🌸</h2>
 
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="anime coding gif">
+<img align="right" height="180" src="https://tenor.com/view/evrima-server-the-isle-anime-computer-gif-23001807" alt="anime coding gif">
 
 - 🌸 Passionate about **anime** and **coding**
 - 🎮 **232.6 days** watched on MyAnimeList with **7.63** mean score
 - 📚 Currently exploring new technologies when not binging anime
 - 🍜 Love for Japanese culture and cuisine  
-- 🎵 Fan of anime soundtracks and cosplay
-- 💭 *"Believe in yourself and create your own destiny. Don't fear failure."* - Naruto
+-    Learning Japanese and UI/UX designer 
 - 🎯 **807 anime entries** completed on MAL
 
 <br>
@@ -49,61 +47,61 @@
 <h2 align="center">🎌 My Favorite Anime (From MAL) 🎌</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" alt="anime divider">
+  <img src="https://tenor.com/view/ryougi-shiki-gif-21077662.gif" width="500" alt="anime divider">
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1722/106229l.jpg" width="80" alt="86"/>
+        <img src="https://static.wikia.nocookie.net/86-eighty-six/images/2/2c/Light_Novel_Volume_5_Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20181125201308"  width="80" alt="86"/>
         <br>
         <b>86</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/13/17405l.jpg" width="80" alt="Detective Conan"/>
+        <img src="https://cdn.myanimelist.net/images/anime/7/75199.jpg" width="80" alt="Detective Conan"/>
         <br>
         <b>Detective Conan</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1178/92469l.jpg" width="80" alt="Code Geass"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1032/135088.jpg" width="80" alt="Code Geass"/>
         <br>
         <b>Code Geass</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1286/99889l.jpg" width="80" alt="Bleach"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1931/134422.jpg" width="80" alt="Bleach"/>
         <br>
         <b>Bleach</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/2/88336l.jpg" width="80" alt="Fruits Basket"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1085/114792.jpg" width="80" alt="Fruits Basket"/>
         <br>
         <b>Fruits Basket</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1439/122792l.jpg" width="80" alt="Kiznaiver"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1085/147246.jpg" width="80" alt="Kiznaiver"/>
         <br>
         <b>Kiznaiver</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1026/118288l.jpg" width="80" alt="Pandora Hearts"/>
+        <img src="https://cdn.myanimelist.net/images/anime/4/75535.jpg" width="80" alt="Pandora Hearts"/>
         <br>
         <b>Pandora Hearts</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/11/75274l.jpg" width="80" alt="Natsume Yuujinchou"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1681/108439.jpg" width="80" alt="Natsume Yuujinchou"/>
         <br>
         <b>Natsume Yuujinchou</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/11/21939l.jpg" width="80" alt="Noragami"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1886/128266.jpg" width="80" alt="Noragami"/>
         <br>
         <b>Noragami</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1558/92012l.jpg" width="80" alt="K Return of Kings"/>
+        <img src="https://cdn.myanimelist.net/images/anime/5/71795.jpg" width="80" alt="K Return of Kings"/>
         <br>
         <b>K: Return of Kings</b>
       </td>
@@ -120,48 +118,48 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/o5BzNDDFQnepi/giphy.gif" width="300" alt="anime characters gif">
+  <img src="https://tenor.com/view/xxxholic-yuuko-tea-drinking-gif-11137488831329744299.gif">
 </div>
 
 <h2 align="center">🌟 Favorite Anime Characters 🌟</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" width="500" alt="character divider">
+  <img src="https://tenor.com/view/detective-conan-glasses-gif-23905397.gif">
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/9/72533.jpg" width="70" alt="Himura Kenshin"/>
+        <img src="https://cdn.myanimelist.net/images/characters/8/73810.jpg" width="70" alt="Himura Kenshin"/>
         <br>
         <b>Himura Kenshin</b>
         <br>
         <small>Rurouni Kenshin</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/8/78346.jpg" width="70" alt="Lelouch"/>
+        <img src="https://cdn.myanimelist.net/images/characters/3/523462.jpg" width="70" alt="Lelouch"/>
         <br>
-        <b>Lelouch Lamperouge</b>
+        <b>Yuuko Ichihara</b>
         <br>
-        <small>Code Geass</small>
+        <small>xxxHolic</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/14/62409.jpg" width="70" alt="Shinei Nouzen"/>
+        <img src="https://cdn.myanimelist.net/images/characters/13/481806.jpg" width="70" alt="Shinei Nouzen"/>
         <br>
         <b>Shinei Nouzen</b>
         <br>
         <small>86</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/3/18997.jpg" width="70" alt="Conan"/>
+        <img src="https://cdn.myanimelist.net/images/characters/11/308347.jpg" width="70" alt="Conan"/>
         <br>
         <b>Edogawa Conan</b>
         <br>
         <small>Detective Conan</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/7/284129.jpg" width="70" alt="Saber"/>
+        <img src="https://cdn.myanimelist.net/images/characters/6/275276.jpg" width="70" alt="Saber"/>
         <br>
         <b>Saber</b>
         <br>
@@ -170,35 +168,35 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/10/54984.jpg" width="70" alt="Vash"/>
+        <img src="https://cdn.myanimelist.net/images/characters/10/89607.jpg" width="70" alt="Vash"/>
         <br>
         <b>Vash the Stampede</b>
         <br>
         <small>Trigun</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/14/70411.jpg" width="70" alt="Eikichi"/>
+        <img src="https://cdn.myanimelist.net/images/characters/8/241475.jpg" width="70" alt="Eikichi"/>
         <br>
         <b>Onizuka Eikichi</b>
         <br>
         <small>GTO</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/13/75426.jpg" width="70" alt="Hei"/>
+        <img src="https://cdn.myanimelist.net/images/characters/8/78781.jpg" width="70" alt="Hei"/>
         <br>
         <b>Hei</b>
         <br>
         <small>Darker than Black</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/13/287323.jpg" width="70" alt="Yuuko"/>
+        <img src="https://cdn.myanimelist.net/images/characters/6/160755.jpg" width="70" alt="Yuuko"/>
         <br>
-        <b>Ichihara Yuuko</b>
+        <b>Takashi Natsume</b>
         <br>
-        <small>Tsubasa Chronicle</small>
+        <small>Natsume Yuujinchou</small>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/characters/9/310307.jpg" width="70" alt="Shiki"/>
+        <img src="https://cdn.myanimelist.net/images/characters/8/79870.jpg" width="70" alt="Shiki"/>
         <br>
         <b>Ryougi Shiki</b>
         <br>
@@ -209,7 +207,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="400" alt="anime celebration gif">
+  <img src="https://tenor.com/view/kaitou-kid-gif-20450229.gif">
 </p>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
@@ -227,7 +225,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="coding anime gif">
+  <img src="https://media1.tenor.com/m/paU7ZLSP3b0AAAAd/evrima-server.gif" alt="coding anime gif">
 </div>
 
 <h2 align="center">🛠️ Skills & Tools 🛠️</h2>
@@ -244,13 +242,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="programming gif">
+  <img src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAd/anime-hacking.gif" width="300" alt="programming gif">
 </p>
 
 <h2 align="center">💭 Anime Quotes I Live By 💭</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="400" alt="quotes gif">
+  <img src="https://tenor.com/view/eighty-six-anime-86eighty-six-anime-eighty-six-shin-86anime-86anime-shin-gif-20263633.gif">
 </p>
 
 <table align="center">
