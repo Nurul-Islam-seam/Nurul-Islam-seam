@@ -4,102 +4,215 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </div>
 
-<h1 align="center">Nurul Islam's Anime Universe</h1>
+<h1 align="center">✨ Nurul Islam's Anime Universe ✨</h1>
 
 <div align="center">
   <img src="https://c.tenor.com/cXlrPENTVkEAAAAC/chika-fujiwara-kaguya-sama.gif" width="400" alt="anime welcome gif">
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF71DD&center=true&vCenter=true&width=435&lines=Anime+Enthusiast;Code+Explorer;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF71DD&center=true&vCenter=true&width=600&lines=Anime+Enthusiast+%26+Developer;232.6+Days+Watched+on+MAL;Code+Explorer+%26+Otaku;Welcome+to+my+universe!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nurul-Islam-seam&color=ff71dd&style=flat-square" alt="Profile Views">
   <br>
-  <em>Last updated: 2025-04-18</em>
+  <em>Last updated: 2025-05-24</em>
 </p>
 
 <div align="center">
   <a href="https://github.com/Nurul-Islam-seam">
     <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&labelColor=8E2DE2&color=30C5FF">
   </a>
+  <a href="https://myanimelist.net/profile/seamkhan336">
+    <img src="https://img.shields.io/badge/MAL-232.6_Days-2E51A2?style=flat-square&logo=myanimelist&logoColor=white">
+  </a>
 </div>
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🌸 About Me 🌸</h2>
 
-<img align="right" height="150" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="anime coding gif">
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="anime coding gif">
 
 - 🌸 Passionate about **anime** and **coding**
-- 🎮 Enjoy watching anime and discussing character development
+- 🎮 **232.6 days** watched on MyAnimeList with **7.63** mean score
 - 📚 Currently exploring new technologies when not binging anime
-- 🍜 Love for Japanese culture and cuisine
+- 🍜 Love for Japanese culture and cuisine  
 - 🎵 Fan of anime soundtracks and cosplay
 - 💭 *"Believe in yourself and create your own destiny. Don't fear failure."* - Naruto
+- 🎯 **807 anime entries** completed on MAL
 
 <br>
 <br>
 
-<h2 align="center">My Favorite Anime</h2>
+<h2 align="center">🎌 My Favorite Anime (From MAL) 🎌</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="600">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" alt="anime divider">
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/13/17405l.jpg" width="80" alt="Naruto"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1722/106229l.jpg" width="80" alt="86"/>
         <br>
-        <b>Naruto</b>
+        <b>86</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1178/92469l.jpg" width="80" alt="One Piece"/>
+        <img src="https://cdn.myanimelist.net/images/anime/13/17405l.jpg" width="80" alt="Detective Conan"/>
         <br>
-        <b>One Piece</b>
+        <b>Detective Conan</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1907/134102l.jpg" width="80" alt="Attack on Titan"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1178/92469l.jpg" width="80" alt="Code Geass"/>
         <br>
-        <b>Attack on Titan</b>
+        <b>Code Geass</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/1286/99889l.jpg" width="80" alt="Demon Slayer"/>
+        <img src="https://cdn.myanimelist.net/images/anime/1286/99889l.jpg" width="80" alt="Bleach"/>
         <br>
-        <b>Demon Slayer</b>
+        <b>Bleach</b>
       </td>
       <td align="center">
-        <img src="https://cdn.myanimelist.net/images/anime/10/78745l.jpg" width="80" alt="My Hero Academia"/>
+        <img src="https://cdn.myanimelist.net/images/anime/2/88336l.jpg" width="80" alt="Fruits Basket"/>
         <br>
-        <b>My Hero Academia</b>
+        <b>Fruits Basket</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/1439/122792l.jpg" width="80" alt="Kiznaiver"/>
+        <br>
+        <b>Kiznaiver</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/1026/118288l.jpg" width="80" alt="Pandora Hearts"/>
+        <br>
+        <b>Pandora Hearts</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/11/75274l.jpg" width="80" alt="Natsume Yuujinchou"/>
+        <br>
+        <b>Natsume Yuujinchou</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/11/21939l.jpg" width="80" alt="Noragami"/>
+        <br>
+        <b>Noragami</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/anime/1558/92012l.jpg" width="80" alt="K Return of Kings"/>
+        <br>
+        <b>K: Return of Kings</b>
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Naruto-★★★★★-FFD700?style=flat-square" alt="rating">
-  &nbsp;
-  <img src="https://img.shields.io/badge/One_Piece-★★★★★-FFD700?style=flat-square" alt="rating">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Attack_on_Titan-★★★★★-FFD700?style=flat-square" alt="rating">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Demon_Slayer-★★★★☆-FFD700?style=flat-square" alt="rating">
-  &nbsp;
-  <img src="https://img.shields.io/badge/My_Hero_Academia-★★★★☆-FFD700?style=flat-square" alt="rating">
-  &nbsp;
-  <img src="https://img.shields.io/badge/🕵️‍♂️_Detective_Conan-★★★★★-FFD700?style=flat-square" alt="rating">
-
+  <img src="https://img.shields.io/badge/86-★★★★★-FFD700?style=flat-square" alt="rating">
+  <img src="https://img.shields.io/badge/Detective_Conan-★★★★★-FFD700?style=flat-square" alt="rating">
+  <img src="https://img.shields.io/badge/Code_Geass-★★★★★-FFD700?style=flat-square" alt="rating">
+  <img src="https://img.shields.io/badge/Bleach-★★★★★-FFD700?style=flat-square" alt="rating">
+  <img src="https://img.shields.io/badge/Fruits_Basket-★★★★★-FFD700?style=flat-square" alt="rating">
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/o5BzNDDFQnepi/giphy.gif" width="300" alt="anime characters gif">
+</div>
+
+<h2 align="center">🌟 Favorite Anime Characters 🌟</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="600">
+  <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" width="500" alt="character divider">
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/9/72533.jpg" width="70" alt="Himura Kenshin"/>
+        <br>
+        <b>Himura Kenshin</b>
+        <br>
+        <small>Rurouni Kenshin</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/8/78346.jpg" width="70" alt="Lelouch"/>
+        <br>
+        <b>Lelouch Lamperouge</b>
+        <br>
+        <small>Code Geass</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/14/62409.jpg" width="70" alt="Shinei Nouzen"/>
+        <br>
+        <b>Shinei Nouzen</b>
+        <br>
+        <small>86</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/3/18997.jpg" width="70" alt="Conan"/>
+        <br>
+        <b>Edogawa Conan</b>
+        <br>
+        <small>Detective Conan</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/7/284129.jpg" width="70" alt="Saber"/>
+        <br>
+        <b>Saber</b>
+        <br>
+        <small>Fate/stay night</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/10/54984.jpg" width="70" alt="Vash"/>
+        <br>
+        <b>Vash the Stampede</b>
+        <br>
+        <small>Trigun</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/14/70411.jpg" width="70" alt="Eikichi"/>
+        <br>
+        <b>Onizuka Eikichi</b>
+        <br>
+        <small>GTO</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/13/75426.jpg" width="70" alt="Hei"/>
+        <br>
+        <b>Hei</b>
+        <br>
+        <small>Darker than Black</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/13/287323.jpg" width="70" alt="Yuuko"/>
+        <br>
+        <b>Ichihara Yuuko</b>
+        <br>
+        <small>Tsubasa Chronicle</small>
+      </td>
+      <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/9/310307.jpg" width="70" alt="Shiki"/>
+        <br>
+        <b>Ryougi Shiki</b>
+        <br>
+        <small>Kara no Kyoukai</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="400" alt="anime celebration gif">
+</p>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nurul-Islam-seam&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF71DD&text_color=8DEEEE&icon_color=FF71DD&hide=issues&card_width=495" alt="GitHub Stats" />
@@ -113,7 +226,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-Islam-seam&layout=compact&hide_border=true&bg_color=00000000&title_color=FF71DD&text_color=8DEEEE&card_width=450" alt="Top Languages" />
 </p>
 
-<h2 align="center">Skills & Tools</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="coding anime gif">
+</div>
+
+<h2 align="center">🛠️ Skills & Tools 🛠️</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -127,57 +244,86 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="240" alt="anime coding gif">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="programming gif">
 </p>
 
-<h2 align="center">Anime Quotes I Live By</h2>
+<h2 align="center">💭 Anime Quotes I Live By 💭</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="400" alt="quotes gif">
+</p>
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/One_Piece-E50914?style=flat-square" alt="One Piece">
-      <p><em>"If you don't take risks, you can't create a future!"</em></p>
-      <p align="center"><strong>— Monkey D. Luffy</strong></p>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/86-FF6B6B?style=flat-square" alt="86">
+      <p><em>"Even if we die, we'll die as human beings."</em></p>
+      <p align="center"><strong>— Shinei Nouzen</strong></p>
     </td>
-    <td style="vertical-align: middle; padding: 0 10px; font-size: 2em;">|</td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Naruto-FF7F00?style=flat-square" alt="Naruto">
-      <p><em>"It's not the face that makes someone a monster, it's the choices they make with their lives."</em></p>
-      <p align="center"><strong>— Naruto Uzumaki</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3" style="padding: 10px;">
+    <td style="vertical-align: middle; padding: 0 15px; font-size: 2em; color: #FF71DD;">|</td>
+    <td align="center" style="padding: 15px;">
       <img src="https://img.shields.io/badge/Code_Geass-702F8A?style=flat-square" alt="Code Geass">
       <p><em>"You will never be able to love anybody else until you love yourself."</em></p>
       <p align="center"><strong>— Lelouch Lamperouge</strong></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="3" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Detective_Conan-4ECDC4?style=flat-square" alt="Detective Conan">
+      <p><em>"There is only one truth!"</em></p>
+      <p align="center"><strong>— Edogawa Conan</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Rurouni_Kenshin-FF9500?style=flat-square" alt="Rurouni Kenshin">
+      <p><em>"A sword is a weapon. Kenjutsu is a way to kill. But I don't want to kill anymore."</em></p>
+      <p align="center"><strong>— Himura Kenshin</strong></p>
+    </td>
+  </tr>
 </table>
 
-<h2 align="center">Connect With Me</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" alt="anime friendship gif">
+</div>
+
+<h2 align="center">🌐 Connect With Me 🌐</h2>
 
 <p align="center">
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://www.facebook.com/seam336/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/nurul-islam-seam-802a441b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://myanimelist.net/profile/your-username" target="_blank">
+  <a href="https://myanimelist.net/profile/seamkhan336" target="_blank">
     <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList">
   </a>
   &nbsp;
-  <a href="https://discord.gg/your-discord" target="_blank">
+  <a href="https://github.com/Nurul-Islam-seam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/WJyJyTmm94" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="anime wave gif">
+</div>
+
 <br>
 <p align="center">
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/konata-dance.gif" width="200" alt="anime thank you gif">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200" alt="anime thank you gif">
   <br>
-  <em>Thanks for visiting my profile! Have a wonderful day and keep watching anime! 😄</em>
+  <em>Thanks for visiting my profile! Let's connect and talk about anime! 🌸✨</em>
+  <br>
+  <em>Currently watching: Always discovering new anime gems! 📺</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=See%20you%20space%20cowboy...&fontSize=20&fontColor=fff&animation=twinkling" alt="footer"/>
 </p>
